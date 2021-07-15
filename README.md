@@ -28,6 +28,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ## What I've learnt
 
-![](https://github.com/giosandev/mi_card_flutter/tree/master/images/screen.png)
-
-
+![screen](https://user-images.githubusercontent.com/25587137/125763295-bd9e3aee-11c8-4b22-9bec-5f31df6ae6d5.png)
